@@ -3,8 +3,6 @@ entries:
   inventory:
   - apiVersion: v2
     appVersion: 1.x.y
-    description: SpaceONE inventory Helm chart for Kubernetes
-    digest: 218aa1b2a829e197810cd7775d8a741c625338824032c445ff0deaf9b4f615f2
     name: inventory
     type: application
     urls:
